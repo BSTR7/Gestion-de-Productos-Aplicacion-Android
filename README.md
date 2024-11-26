@@ -83,7 +83,7 @@ El diseño principal (`activity_main.xml`) contiene:
 
 ## Captura de Pantalla
 
-[app.png](https://postimg.cc/xkGHxFBf)
+[![app.png](https://i.postimg.cc/CKXNK3Nq/app.png)](https://postimg.cc/xkGHxFBf)
 
 ---
 
